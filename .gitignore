@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
