@@ -17,3 +17,18 @@ AI-powered educational app with 3 FREE APIs:
 All free tiers available.
 
 Made with ❤️ for students.
+# 1. Git Initialize
+git init
+
+# 2. Add all files
+git add .
+
+# 3. Commit
+git commit -m "Initial commit: Free AI Question Solver App (Backend + Mobile)"
+
+# 4. Link GitHub Repository (अपना username/repo name replace करें)
+git remote add origin https://github.com/YOUR_USERNAME/question-solver-app.git
+
+# 5. Push to GitHub
+git branch -M main
+git push -u origin main
